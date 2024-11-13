@@ -31,7 +31,7 @@ Connect with Me
 - Email
 - Discord
 - [GitHub](https://github.com/stevenkiryu)
-- Linkedln
+- [Linkedln](https://www.linkedin.com/in/steven-tjayadi-3b2694201/)
 <!--
 
 
