@@ -30,7 +30,7 @@ Game Development Frameworks
 Connect with Me
 - Email
 - Discord
-- [GitHub] (https://github.com/stevenkiryu)
+- [GitHub](https://github.com/stevenkiryu)
 - Linkedln
 <!--
 
