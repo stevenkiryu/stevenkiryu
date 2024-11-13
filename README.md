@@ -27,7 +27,7 @@ Game Development Frameworks
 - Auto3D Max
 
 
-- Connect with Me
+Connect with Me
 - Linkedln
 - Email
 - Discord
