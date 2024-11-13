@@ -4,6 +4,8 @@
 - I'm currently working on PT Indonesia Global Solusindo (ISGS)
 - I have experience with: RPA Development, Data Engineering, Machine Learning, Software Development, and Game Development
 - I'm currently learning Power Automate, UiPath, Snowflake, and Auto3D Max
+- My Goal is continuously strive for excellence in automation, development, and designer.
+- My Goal big project: Character Development Automation 
 
 Skill and Technologies
 
