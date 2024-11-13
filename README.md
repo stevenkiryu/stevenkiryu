@@ -1,37 +1,37 @@
 ## Hi there 👋 I'm Steven Tjayadi
 
-- About Me
+## About Me
 - I'm currently working on PT Indonesia Global Solusindo (ISGS)
 - I have experience with: RPA Development, Data Engineering, Machine Learning, Software Development, and Game Development
 - I'm currently learning Power Automate, UiPath, Snowflake, and Auto3D Max
 - My Goal is continuously strive for excellence in automation, development, and designer.
 - My Goal big project: Character Development Automation 
 
-Skill and Technologies
+## Skill and Technologies
 
-Programming Language
+### Programming Language
 - Python
 - VB.NET
 - SQL
 
-RPA Platforms
+### RPA Platforms
 - UiPath
 - Power Automate
 
-Python Frameworks 
+### Python Frameworks 
 - Streamlit
 - Snowflake
 - Flask
 - Django
 
-Game Development Frameworks
+### Game Development Frameworks
 - Blender
 - Auto3D Max
 
-Projects
+## Projects
 
 
-Connect with Me
+## Connect with Me
 - Email : stjayadi@gmail.com / bluerei75@gmail.com
 - Discord : kiryu7528
 - [GitHub](https://github.com/stevenkiryu)
