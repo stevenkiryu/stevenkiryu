@@ -28,8 +28,8 @@ Game Development Frameworks
 
 
 Connect with Me
-- Email
-- Discord
+- Email : stjayadi@gmail.com / bluerei75@gmail.com
+- Discord : kiryu7528
 - [GitHub](https://github.com/stevenkiryu)
 - [Linkedln](https://www.linkedin.com/in/steven-tjayadi-3b2694201/)
 <!--
