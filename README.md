@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Steven Tjayadi
 
 ## About Me
+- For game development nickname, I choose Kiryu. So my name is StevenKiryu or just call me Kiryu. 
 - I'm currently working on PT Indonesia Global Solusindo (ISGS)
 - I have experience with: RPA Development, Data Engineering, Machine Learning, Software Development, and Game Development
 - I'm currently learning Power Automate, UiPath, Snowflake, and Auto3D Max
